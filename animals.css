@@ -1,0 +1,15 @@
+.layout main {}
+
+.layout main .images {
+    display: flex;
+    margin: 0px 10px;
+    flex-wrap: wrap;
+    justify-content: start;
+}
+
+.layout main .images img {
+    width: 200px;
+    height: 200px;
+    border: solid 1px red;
+    box-sizing: border-box;
+}

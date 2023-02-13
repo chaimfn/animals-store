@@ -1,0 +1,19 @@
+{
+  "name": "flex-grid",
+  "version": "1.0.0",
+  "main": "index.html",
+  "scripts": {
+    "start": "cls && npx -y watch-http-server ./ -o -a localhost"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chaimfn/flex-grid.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chaimfn/flex-grid/issues"
+  },
+  "homepage": "https://github.com/chaimfn/flex-grid#readme"
+}

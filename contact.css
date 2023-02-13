@@ -1,0 +1,23 @@
+.layout main form {
+    width: 300px;
+    margin: 20px auto;
+    text-align: center;
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    grid-template-rows: 1fr 2fr 1fr;
+}
+
+.layout main form div {
+    border: solid 1px;
+    padding: 10px;
+}
+
+.layout form input[type=text],
+.layout form textarea,
+.layout form button {
+    width: 100%;
+}
+
+.layout form textarea {
+
+}
