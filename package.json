@@ -1,5 +1,5 @@
 {
-  "name": "flex-grid",
+  "name": "animals-store",
   "version": "1.0.0",
   "main": "index.html",
   "scripts": {
@@ -7,13 +7,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chaimfn/flex-grid.git"
+    "url": "git+https://github.com/chaimfn/animals-store.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/chaimfn/flex-grid/issues"
+    "url": "https://github.com/chaimfn/animals-store/issues"
   },
-  "homepage": "https://github.com/chaimfn/flex-grid#readme"
+  "homepage": "https://github.com/chaimfn/animals-store#readme"
 }
