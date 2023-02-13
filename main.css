@@ -22,6 +22,9 @@ body {
 .layout header,
 .layout footer {
     text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
 
 .layout aside {
@@ -60,4 +63,10 @@ body {
     display: flex;
     flex-direction: column;
     row-gap: 10px;
+}
+
+.vertical-center {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
